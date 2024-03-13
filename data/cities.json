@@ -1,0 +1,42 @@
+{
+  "cities": [
+    {
+      "cityName": "Accra",
+      "country": "Ghana",
+      "emoji": "Gh",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 5.561133531138585,
+        "lng": -0.20376705891954863
+      },
+      "id": 73930385
+    },
+
+    {
+      "cityName": "Legos",
+      "country": "Nigeria",
+      "emoji": "Nig",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 6.925702765619883,
+        "lng": 3.4251098396925643
+      },
+      "id": 17806751
+    },
+
+    {
+      "cityName": "Dinguirare",
+      "country": "Guinea",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 11.360066067545338,
+        "lng": -10.716835028341757
+      },
+      "id": 98443197
+    }
+  ]
+}
